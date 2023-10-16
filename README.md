@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Motaz-fathy
-- 👀 I’m interested in javascript developer
-- 🌱 I’m currently learning typescript and unit testing 
+- 👀 I’m interested in React javascript/typescript developer 
+- 🌱 I’m currently learning React native 
 - 📫 How to reach me motazfathy7@gmail.com
